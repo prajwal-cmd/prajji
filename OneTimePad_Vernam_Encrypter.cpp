@@ -20,5 +20,5 @@ int main()
     fout.close();
     cout<<"Plain text has been encrypted successfully, a file of name = "<<file_name<<" is generated, use this to decrypt"<<endl;
     cout<<"Press any key to exit";
-    getch();
+    getch();//comment done
 }
